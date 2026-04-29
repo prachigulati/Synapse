@@ -1,7 +1,22 @@
 # 🧠🔊 Synapse
+Synapse is an AI-powered voice-first assistant designed for early dementia detection and cognitive support, combining medical imaging, voice intelligence, and interactive tools into a unified platform.
 
-Synapse is a voice-first assistant project with a Django-based application stack and integrated conversational pipeline components 🤖⚙️
+## 🚀 Features
 
+- 🧬 Dementia Detection (MRI-Based)  
+  Analyze brain MRI scans to assist in early-stage dementia detection using AI models.
+
+- 🎙️ Voice Recognition  
+  Detect cognitive decline patterns through speech analysis and conversational inputs.
+
+- 🤖 SLM Agent  
+  Lightweight AI agent for real-time interaction, assistance, and intelligent task handling.
+
+- 🧩 Mind Games  
+  Interactive cognitive games designed to assess and improve memory, focus, and mental agility.
+
+- 📊 Dashboard  
+  Centralized dashboard to track user activity, cognitive metrics, and health insights.
 ## 📁 Repository Layout
 
 - `FinalEclipse/` - Django project UI and app modules 🖥️  
